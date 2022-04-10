@@ -1,0 +1,40 @@
+{
+	"name": "dark-monokai",
+	"displayName": "Dark Monokai",
+	"version": "0.0.1",
+	"publisher": "kylesgl",
+	"description": "Default Dark theme with Monokai token colors and purple accents",
+	"author": {
+		"name": "kylesgl"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#C80000",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.66.0"
+	},
+	"keywords": [
+		"monokai",
+		"dark",
+		"theme",
+		"color-theme"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark Monokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-monokai.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kylesgl/dark-monokai.git"
+	}
+}
