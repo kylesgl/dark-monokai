@@ -26,9 +26,6 @@
 		"statusBarItem.remoteBackground": "#16825d",
 		"panelTitle.activeBorder": "#68217a",
 		"ports.iconRunningProcessForeground": "#369432",
-		"sideBarSectionHeader.background": "#000000",
-		"sideBarSectionHeader.border": "#ccc333",
-		"tab.lastPinnedBorder": "#ccc333",
 		"list.activeSelectionIconForeground": "#ffffff"
 	},
 	"tokenColors": [
