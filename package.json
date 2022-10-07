@@ -12,7 +12,7 @@
 	],
 	"icon": "icon.png",
 	"galleryBanner": {
-		"color": "#000000",
+		"color": "#C80000",
 		"theme": "dark"
 	},
 	"engines": {
@@ -27,14 +27,29 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Dark Monokai",
+				"label": "Dark + Monokai",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark-monokai.json"
+			},
+			{
+				"label": "Night Owl Dark + Monokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/night-owl-dark-monokai.json"
 			}
 		]
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/kylesgl/dark-monokai.git"
+	},
+	"__metadata": {
+		"id": "94db24bc-8862-45b5-b292-cf17b2d27021",
+		"publisherId": "266f84cf-6ca6-48b0-9299-4881670959f9",
+		"publisherDisplayName": "kylesgl",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1649922513964
 	}
 }
