@@ -1,7 +1,7 @@
 {
 	"name": "dark-monokai",
 	"displayName": "Dark Monokai",
-	"version": "1.0.1",
+	"version": "2.0.0",
 	"publisher": "kylesgl",
 	"description": "Default Dark theme with Monokai token colors and purple accents",
 	"author": {
@@ -32,9 +32,14 @@
 				"path": "./themes/dark-monokai.json"
 			},
 			{
-				"label": "Night Owl Dark + Monokai",
+				"label": "Darker + Monokai (Purple)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/night-owl-dark-monokai.json"
+				"path": "./themes/darker-monokai-purple.json"
+			},
+			{
+				"label": "Darker + Monokai (Gold)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/darker-monokai-gold.json"
 			}
 		]
 	},

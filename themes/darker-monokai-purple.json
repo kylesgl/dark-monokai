@@ -1,5 +1,5 @@
 {
-	"name": "Night Owl Dark + Monokai",
+	"name": "Darker + Monokai (Purple)",
 	"semanticHighlighting": true,
 	"colors": {
 		"editor.background": "#1b1b1b",
@@ -123,9 +123,9 @@
 		"sideBarSectionHeader.background": "#242424",
 		"sideBarSectionHeader.foreground": "#9d9d9d",
 		"sideBar.dropBackground": null,
-		"list.activeSelectionBackground": "#68217a60",
+		"list.activeSelectionBackground": "#68217a",
 		"list.activeSelectionForeground": "#ffffff",
-		"list.hoverBackground": "#68217a",
+		"list.hoverBackground": "#68217a60",
 		"list.hoverForeground": "#ffffff",
 		"list.inactiveSelectionBackground": "#68217a60",
 		"list.inactiveSelectionForeground": "#cecece",
@@ -284,7 +284,7 @@
 		"gitDecoration.modifiedResourceForeground": "#ffe39c",
 		"gitDecoration.deletedResourceForeground": "#d88282",
 		"gitDecoration.untrackedResourceForeground": "#a1d884",
-		"gitDecoration.ignoredResourceForeground": "#565656",
+		"gitDecoration.ignoredResourceForeground": "#636363",
 		"gitDecoration.conflictingResourceForeground": "#f05050",
 		"progress.background": "#68217a",
 		"terminal.background": "#1b1b1b",
