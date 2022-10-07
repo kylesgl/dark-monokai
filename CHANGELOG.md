@@ -1,5 +1,9 @@
 # Change Log
 
+## [2.0.1] - 2022-10-07
+
+- Color adjustments
+
 ## [2.0.0] - 2022-10-07
 
 - New theme: Darker + Monokai (Gold)
