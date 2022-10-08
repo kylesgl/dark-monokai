@@ -1,6 +1,6 @@
 # Change Log
 
-## [2.0.2] - 2022-10-08
+## [2.0.3] - 2022-10-08
 
 - Color adjustments
 
