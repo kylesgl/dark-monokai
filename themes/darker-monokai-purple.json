@@ -1,5 +1,5 @@
 {
-	"name": "Darker + Monokai (Gold)",
+	"name": "Darker + Monokai (Purple)",
 	"semanticHighlighting": true,
 	"colors": {
 		"editor.background": "#1b1b1b",
@@ -251,7 +251,7 @@
 		"statusBar.foreground": "#9d9d9d",
 		"statusBar.border": "#68217a",
 		"statusBar.debuggingBackground": "#68217a",
-		"statusBar.debuggingForeground": "#1b1b1b",
+		"statusBar.debuggingForeground": "#ffffff",
 		"statusBar.debuggingBorder": "#68217a",
 		"statusBar.noFolderForeground": null,
 		"statusBar.noFolderBackground": "#1b1b1b",
@@ -279,6 +279,7 @@
 		"debugToolBar.border": null,
 		"welcomePage.buttonBackground": "#242424",
 		"welcomePage.buttonHoverBackground": "#2e2e2e",
+		"welcomePage.progress.foreground": "#68217a",
 		"walkThrough.embeddedEditorBackground": "#1b1b1b",
 		"gitDecoration.addedResourceForeground": "#a1d884",
 		"gitDecoration.modifiedResourceForeground": "#ffe39c",
